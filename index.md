@@ -36,8 +36,8 @@ This is a [link to google](https://google.com)
 
 # Section Links
 
-This is a section link to [the link section](# link)
-This is a section link to [the Headings section](# Headings)
+This is a section link to [the link section](#link)
+This is a section link to [the Headings section](#Headings)
 
 # Relative Links
 This is a relative link to [my readme](README.md)
