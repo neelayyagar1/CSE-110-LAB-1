@@ -13,7 +13,7 @@ My name is Neel Ayyagari and welcome to my webpage!
 
 # Styling Text
 
-This is *me* styling some **text**
+This is *me* styling ~~some~~ **text**
 
 # Quoting Text
 
