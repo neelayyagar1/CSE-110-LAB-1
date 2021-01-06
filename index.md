@@ -27,7 +27,7 @@ This is me
 > text
 
 # Quoting Code
-This is me `quoting` code
+This is me `quoting` code:
 
 ```
 This
