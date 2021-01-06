@@ -76,4 +76,4 @@ This is a relative link to [my config](_config.yml)
 
 ![First Picture](/SirAlexWallpaper.png "Good coach")
 
-![Second Picture](/car.png "Good Car")
+![Second Picture](/Car.png "Good Car")
