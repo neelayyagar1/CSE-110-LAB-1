@@ -71,4 +71,10 @@ This is a relative link to [my config](_config.yml)
 
 - [ ] Did I finish this section
   - [X] Yes
+  
+# Pictures
+
+![Favorite Soccer Team Coach (from local)]()
+
+![Cool Car (from internet)]()
 
