@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
+# Welcome to Neel Ayyagari's User Page
 
-You can use the [editor on GitHub](https://github.com/neelayyagar1/CSE-110-LAB-1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Neel Ayyagari and welcome to my webpage!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Headings
 
-### Markdown
+# Heading One
+## Heading Two
+### Heading three
+#### Heading four
+##### Heading five
+###### Heading six
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Styling Text
 
-```markdown
-Syntax highlighted code block
+This is *me* styling some **text**
 
-# Header 1
-## Header 2
-### Header 3
+# Quoting Text
 
-- Bulleted
-- List
+This is me 
+> Quoting
+text and 
+>Quoting
+>Block
+text
 
-1. Numbered
-2. List
+# Quoting Code
+This is me `quoting` code
 
-**Bold** and _Italic_ and `Code` text
+# Links
 
-[Link](url) and ![Image](src)
-```
+These are some links of companies I'd like to work with: www.google.com, www.amazon.com, www.microsoft.com
+This is a [link to google](https://google.com) 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Section Links
 
-### Jekyll Themes
+This is a section link to [the link section](# link)
+This is a section link to [the Headings section](# Headings)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/neelayyagar1/CSE-110-LAB-1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# Relative Links
+This is a relative link to [my readme](README.md)
+This is a relative link to [my config](_config.yml)
 
-### Support or Contact
+# Lists
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* This
+* Is
+  * An 
+  * Unordered
+  * List
+
+1. This
+1. Is
+  1. An 
+  1. Ordered
+  1. List
+  
+# Task Lists
+
+- [ ] Did I finish this section
+- [X] Yes
+
