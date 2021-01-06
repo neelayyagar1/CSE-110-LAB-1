@@ -74,5 +74,4 @@ This is a relative link to [my config](_config.yml)
   
 # Pictures
 
-![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
 
