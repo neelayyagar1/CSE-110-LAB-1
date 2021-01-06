@@ -74,5 +74,5 @@ This is a relative link to [my config](_config.yml)
   
 # Pictures
 
-![GitHub Logo](/images/logo.png)
+![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
 
