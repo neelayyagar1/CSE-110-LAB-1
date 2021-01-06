@@ -19,7 +19,9 @@ This is *me* styling some **text**
 
 This is me 
 > Quoting
-text and 
+text
+
+This is me
 >Quoting
 >Block
 text
