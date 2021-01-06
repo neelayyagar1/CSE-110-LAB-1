@@ -29,6 +29,13 @@ This is me
 # Quoting Code
 This is me `quoting` code
 
+```
+This
+is a 
+Block of
+Code
+```
+
 # Links
 
 These are some links of companies I'd like to work with: www.google.com, www.amazon.com, www.microsoft.com
