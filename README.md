@@ -2,6 +2,3 @@
 
 "Neel Ayyagari's User Page"
 
-VSCODE change
-
-I love Java
