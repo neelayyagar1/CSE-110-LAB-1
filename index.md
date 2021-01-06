@@ -67,5 +67,8 @@ This is a relative link to [my config](_config.yml)
 # Task Lists
 
 - [ ] Did I finish this section
-- [X] Yes
+- [X] No
+
+- [ ] Did I finish this section
+ - [X] Yes
 
