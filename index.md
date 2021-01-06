@@ -74,7 +74,5 @@ This is a relative link to [my config](_config.yml)
   
 # Pictures
 
-![Favorite Soccer Team Coach (from local)]()
-
-![Cool Car (from internet)]()
+![GitHub Logo](/images/logo.png)
 
