@@ -19,12 +19,12 @@ This is *me* styling some **text**
 
 This is me 
 > Quoting
-text
+> text
 
 This is me
->Quoting
->Block
-text
+> Quoting
+>> Block
+> text
 
 # Quoting Code
 This is me `quoting` code
