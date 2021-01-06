@@ -75,3 +75,4 @@ This is a relative link to [my config](_config.yml)
 # Pictures
 
 ![First Picture](/SirAlexWallpaper.png "Good coach")
+![First Picture](/car_image.jfif "Good Car")
