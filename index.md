@@ -70,5 +70,5 @@ This is a relative link to [my config](_config.yml)
 - [X] No
 
 - [ ] Did I finish this section
- - [X] Yes
+  - [X] Yes
 
