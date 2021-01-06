@@ -76,4 +76,4 @@ This is a relative link to [my config](_config.yml)
 
 ![First Picture](/SirAlexWallpaper.png "Good coach")
 
-![First Picture](/carimage.jfif "Good Car")
+![First Picture](/car.png "Good Car")
